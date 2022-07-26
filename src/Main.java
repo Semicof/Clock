@@ -1,3 +1,5 @@
 public class Main {
-    Clock clock=new Clock();
+    public static void main(String[] args) {
+        Clock clock=new Clock();
+    }
 }
