@@ -13,7 +13,7 @@ public class Clock extends JFrame {
     static String day;
     Clock(){
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("Cof's Clock");
+        this.setTitle("Đồng Hồ Vớ Vẩn");
         this.setLayout(new FlowLayout());
         this.setSize(350,180);
         this.setResizable(false);
